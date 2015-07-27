@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Productos Frescos</string>
+    <string name="action_settings"></string>
+    <string name="title_activity_menu"></string>
+    <string name="title_activity_cliente"></string>
+    <string name="title_activity_relacion"></string>
+    <string name="title_activity_vista"></string>
+    <string name="title_activity_listar"></string>
+    <string name="title_activity_resumen"></string>
+    <string name="title_activity_seleccion_resumen"></string>
+    <string name="title_activity_contenedor"></string>
+    <string name="title_activity_contenedor1"></string>
+    <string name="title_activity_cliente2"></string>
+    <string name="title_activity_mapa">Mapa</string>
+
+    <string name="login_usuario">Usuario</string>
+    <string name="contrasena_usuario">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    
+    <string name="cliente_rut">Rut</string>
+    <string name="cliente_nombre">Nombre</string>
+    <string name="cliente_direccion">Dirección</string>
+    <string name="cliente_telefono">Telefono</string>
+    <string name="cliente_longitud">Longitud</string>
+    <string name="cliente_latitud">Latitud</string>
+    <string name="cliente_boton">Ingresar</string>
+    
+    <string name="entrega_pedido">Seleccione Pedido</string>
+    <string name="entrega_producto">Seleccione Producto</string>
+    <string name="entrega_boton">Entregar Producto</string>
+    
+    <string name="registro_boleta">Ingrese numero de boleta</string> 
+    <string name="registro_cantidad">Ingrese Cantidad</string>
+    <string name="registro_precio">Precio Unitario</string>
+    <string name="registro_fecha">Seleccione Fecha de entrega</string>
+    <string name="registro_boton">Ingresar Producto</string>
+    
+    <string name="resumen_1"> Lista total de compras.</string> 
+    <string name="resumen_2">Productos entregados segun boleta seleccionada.</string>
+    <string name="resumen_3">Productos no entregados segun compra.</string>
+    <string name="resumen_4">Total productos pedidos realizados por cliente(General).</string>
+    <string name="resumen_5">Total productos no entregados(General).</string>
+    <string name="resumen_6">Fecha de entrega.</string>
+    <string name="resumen_7">Valor Compra.</string>
+    
+    <string name="tab1">Clientes</string>
+    <string name="tab2">Ingreso Clientes</string>
+    <string name="tab3">Ubicación Clientes</string>
+    
+
+    
+    <string name="tab1_1">Mantenedor</string>
+    <string name="tab2_1">Registro</string>
+    <string name="tab3_1">Entrega</string>
+    <string name="tab4_1">Resumen</string>    
+
+   
+
+
+
+
+  
+</resources>

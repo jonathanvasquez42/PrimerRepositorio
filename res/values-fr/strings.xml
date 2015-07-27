@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Produits frais</string>
+   
+    <string name="action_settings"></string>
+    <string name="title_activity_menu"></string>
+    <string name="title_activity_cliente"></string>
+    <string name="title_activity_relacion"></string>
+    <string name="title_activity_vista"></string>
+    <string name="title_activity_listar"></string>
+    <string name="title_activity_resumen"></string>
+    <string name="title_activity_seleccion_resumen"></string>
+    <string name="title_activity_contenedor"></string>
+    <string name="title_activity_contenedor1"></string>
+    <string name="title_activity_cliente2"></string>
+    <string name="title_activity_mapa">Carte</string>
+    
+    <string name="login_usuario">Utilisateur</string>
+    <string name="contrasena_usuario">Passe</string>
+    <string name="btn_ingresar">connecter</string>
+    
+
+    <string name="cliente_rut">Utilisateur</string>
+    <string name="cliente_nombre">nom</string>
+    <string name="cliente_direccion">adresse</string>
+    <string name="cliente_telefono">numéro de téléphone</string>
+      <string name="cliente_longitud"> longueur</string>
+    <string name="cliente_latitud">de Latitude</string>
+     <string name="cliente_boton">Insérer</string>
+   
+    <string name="entrega_pedido">Selectionnez ordre</string>
+    <string name="entrega_producto">Choisir le produit</string>
+    <string name="entrega_boton">livrer le produit</string>
+    
+    <string name="registro_boleta">Entrez le numéro du bulletin de vote</string> 
+    <string name="registro_cantidad">Entrez le numéro</string>
+    <string name="registro_precio">Prix Unitaire</string>
+    <string name="registro_fecha">Sélectionnez la date de livraison</string>
+    <string name="registro_boton">Connexion produit</string>
+    
+    
+
+
+
+
+    
+    <string name="resumen_1">Liste achat total.</string> 
+    <string name="resumen_2">Produits sélectionnés livrés scrutin selon.</string>
+    <string name="resumen_3">Produits non livrés selon achat.</string>
+    <string name="resumen_4">Toutes les commandes de biens placés par client (général).</string>
+    <string name="resumen_5">Tous les biens non livrés (générales).</string>
+     <string name="resumen_6"> date de livraison</string>
+    <string name="resumen_7">valeur d achat</string>
+   
+
+
+
+	<string name="tab1">clientèle</string>
+	<string name="tab2">clientèle insèrent</string>
+    <string name="tab3">Adresse du client</string>
+    
+    <string name="tab1_1">Mainteneur</string>
+    <string name="tab2_1">Inscription</string>
+    <string name="tab3_1">Livraison</string>
+    <string name="tab4_1">Résumé</string>  
+    
+    
+
+
+
+	
+
+
+
+</resources>

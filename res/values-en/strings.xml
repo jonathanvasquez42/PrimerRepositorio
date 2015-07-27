@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fresh Products</string>
+    <string name="action_settings"></string>
+    <string name="title_activity_menu"></string>
+    <string name="title_activity_cliente"></string>
+    <string name="title_activity_relacion"></string>
+    <string name="title_activity_vista"></string>
+    <string name="title_activity_listar"></string>
+    <string name="title_activity_resumen"></string>
+    <string name="title_activity_seleccion_resumen"></string>
+    <string name="title_activity_contenedor"></string>
+    <string name="title_activity_contenedor1"></string>
+    <string name="title_activity_cliente2"></string>
+    <string name="title_activity_mapa">Map</string>
+
+    <string name="login_usuario">User</string>
+    <string name="contrasena_usuario">Password</string>
+    <string name="btn_ingresar">Sign in</string>
+    
+    <string name="cliente_rut">Id</string>
+    <string name="cliente_nombre">Name</string>
+    <string name="cliente_direccion">Address</string>
+    <string name="cliente_telefono">Telephone number</string>
+     <string name="cliente_longitud">Longitude</string>
+    <string name="cliente_latitud">Latitude</string>
+    <string name="cliente_boton">Insert</string>
+    
+       <string name="entrega_pedido">select order</string>
+    <string name="entrega_producto">select product</string>
+    <string name="entrega_boton">deliver product</string>
+    
+    <string name="registro_boleta">Enter ticket number</string> 
+    <string name="registro_cantidad">Enter amount</string>
+    <string name="registro_precio">Unit Price</string>
+    <string name="registro_fecha">Select order date</string>
+    <string name="registro_boton">Enter Product</string>
+    
+    <string name="resumen_1">Total shopping list..</string> 
+    <string name="resumen_2">Selected products delivered according ballot.</string>
+    <string name="resumen_3">Undelivered products according purchase.</string>
+    <string name="resumen_4">All products orders placed per customer (General).</string>
+    <string name="resumen_5">All products undelivered (General).</string>
+    
+    
+    <string name="tab1">Clients</string>
+    <string name="tab2">Clients insert</string>
+    <string name="tab3">Client address</string>
+    
+    <string name="tab1_1">Maintainer</string>
+    <string name="tab2_1">Registration</string>
+    <string name="tab3_1">Delivery</string>
+    <string name="tab4_1">Summary</string>  
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+   
+    
+</resources>
